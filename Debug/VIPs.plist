@@ -18,5 +18,13 @@
 		<key>coin</key>
 		<integer>200</integer>
 	</dict>
+	<dict>
+		<key>recordID</key>
+		<string>10002</string>
+		<key>facebookname</key>
+		<string>夏军</string>
+		<key>coin</key>
+		<integer>11</integer>
+	</dict>
 </array>
 </plist>
