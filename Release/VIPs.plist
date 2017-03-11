@@ -26,5 +26,13 @@
 		<key>coin</key>
 		<integer>3000</integer>
 	</dict>
+	<dict>
+		<key>recordID</key>
+		<string>10003</string>
+		<key>facebookname</key>
+		<string>ryangensert</string>
+		<key>coin</key>
+		<integer>500</integer>
+	</dict>
 </array>
 </plist>
